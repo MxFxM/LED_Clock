@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS31FL3746A
+D 72 LED driver IC
+F https://www.mouser.de/datasheet/2/198/IS31FL3746A_DS-1949501.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,34 @@
+11-14 16:25:16 replicate_layout.action_replicate_layout 313:Plugin executed on: 'linux'
+11-14 16:25:16 replicate_layout.action_replicate_layout 314:Plugin executed with python version: '3.9.7 (default, Aug 31 2021, 13:28:12) \n[GCC 11.1.0]'
+11-14 16:25:16 replicate_layout.action_replicate_layout 315:KiCad build version: 5.1.10
+11-14 16:25:16 replicate_layout.action_replicate_layout 316:Replicate layout plugin version: 74 started
+11-14 16:25:16 replicate_layout.action_replicate_layout 329:All top level windows titles are:
+kicad 5.1.10 /home/mxfxm/repositories/led_clock/led_clock_hw/led_clock_hw.pro
+
+eeschema — led_clock_hw.sch [/] — /home/mxfxm/repositories/led_clock/led_clock_hw
+
+pcbnew — /home/mxfxm/repositories/led_clock/led_clock_hw/led_clock_hw.kicad_pcb
+
+
+position relative to reference item
+place footprints
+place footprints
+place footprints
+place footprints
+place footprints
+place footprints
+11-14 16:25:16 replicate_layout.action_replicate_layout 330:All top level windows objects are:
+ <wx._core.Frame object at 0x7fe8e25d18b0>
+<wx._core.Frame object at 0x7fe8e25d1820>
+<wx._core.Frame object at 0x7fe8e25d18b0>
+<wx._core.Frame object at 0x7fe8e25d1820>
+<wx._core.Frame object at 0x7fe8e25d18b0>
+<wx._core.Frame object at 0x7fe8e25d1820>
+<wx._core.Frame object at 0x7fe8e25d18b0>
+<wx._core.Dialog object at 0x7fe8e25d1820>
+<place_footprints.action_place_footprints.InitialDialog object at 0x7fe8e2ee6dc0>
+<place_footprints.action_place_footprints.PlaceByReference object at 0x7fe8e25e7dc0>
+<place_footprints.action_place_footprints.InitialDialog object at 0x7fe8e2621d30>
+<place_footprints.action_place_footprints.PlaceByReference object at 0x7fe8e25cbca0>
+<place_footprints.action_place_footprints.InitialDialog object at 0x7fe8e25cb940>
+<place_footprints.action_place_footprints.PlaceByReference object at 0x7fe8e25c3b80>

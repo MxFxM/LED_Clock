@@ -1,0 +1,16 @@
+11-14 17:30:19 place_footprints.action_place_footprints 414:Plugin executed on: 'linux'
+11-14 17:30:19 place_footprints.action_place_footprints 415:Plugin executed with python version: '3.9.7 (default, Aug 31 2021, 13:28:12) \n[GCC 11.1.0]'
+11-14 17:30:19 place_footprints.action_place_footprints 416:KiCad build version: 5.1.10
+11-14 17:30:19 place_footprints.action_place_footprints 417:Place footprints plugin version: 55 started
+11-14 17:30:20 place_footprints.place_footprints 213:getting project hierarchy from schematics
+11-14 17:30:20 place_footprints.place_footprints 222:getting a list of all footprints on board
+11-14 17:30:20 place_footprints.action_place_footprints 472:Reference designator is: D
+11-14 17:30:20 place_footprints.action_place_footprints 473:Rerefence number is: 65
+11-14 17:30:20 place_footprints.action_place_footprints 504:Sorted and filtered list:
+['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9', 'D10', 'D11', 'D12', 'D13', 'D14', 'D15', 'D16', 'D17', 'D18', 'D19', 'D20', 'D21', 'D22', 'D23', 'D24', 'D25', 'D26', 'D27', 'D28', 'D29', 'D30', 'D31', 'D32', 'D33', 'D34', 'D35', 'D36', 'D37', 'D38', 'D39', 'D40', 'D41', 'D42', 'D43', 'D44', 'D45', 'D46', 'D47', 'D48', 'D49', 'D50', 'D51', 'D52', 'D53', 'D54', 'D55', 'D56', 'D57', 'D58', 'D59', 'D60', 'D61', 'D62', 'D63', 'D64', 'D65', 'D66', 'D67', 'D68', 'D69', 'D70', 'D71', 'D72']
+11-14 17:30:30 place_footprints.action_place_footprints 535:Modules to place:
+['D61', 'D62', 'D63', 'D64', 'D65', 'D66', 'D67', 'D68', 'D69', 'D70', 'D71', 'D72']
+11-14 17:30:30 place_footprints.place_footprints 344:Starting placing with circular layout
+11-14 17:30:30 place_footprints.place_footprints 354:reference module position at: wxPoint(210000000, 98000000)
+11-14 17:30:30 place_footprints.place_footprints 359:rotation center at: (210000000, 113000000.0)
+11-14 17:30:30 place_footprints.action_place_footprints 545:Placing complete

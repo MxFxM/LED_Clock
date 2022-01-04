@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LED_Clock_HW)(type Legacy)(uri ${KIPRJMOD}/LED_Clock_HW.lib)(options "")(descr ""))
+)
